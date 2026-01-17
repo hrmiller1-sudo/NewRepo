@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang = "en">
+
+<head>
+<title> 
+
+</title>
+<meta charset= "utf-8">
+</head>
+
+<body>
+
+   <header>
+       <h1>My home page<h1>
+   </header>
+
+<h3> Group assignment<h/3>
+
+<h2> Chapter 2 </h2>
+HOP
+
+
+Assignments
+<h2> Chapter 3 </h2>
+HOP
+
+
+Assignments
+
+<main>
+	<h2>New Media and Web Design</h2>
+    <p> Trillium Media Design offers a comprehensive range of services to take your company's web presence to the next level.</p>
+	<h2>Meeting Your Business Needs</h2>
+    <p>Our expert designers will listen to you as they create a website that helps to promte and grow your business.</p>
+</main>
+
+<footer>
+    <small><i> 2020 Hunter Miller</i></small>
+</footer>
+
+</body>
+
+</html>
