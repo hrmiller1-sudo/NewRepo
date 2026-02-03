@@ -1,0 +1,27 @@
+
+
+h1 { background-color: rgba(123, 133, 90, 0.5); 
+	font-family: sans-serif;
+	font-size: 4em;
+	text-shadow: 2px 3px 4px #000000; }
+ 
+
+
+footer { background_color: lightblue;
+	font-family: Arial, sans-serif;
+	color: darkblue;
+	padding: 10px;
+	border: 1px dashed darkblue;  }
+
+#notice {width: 80%; margin: 0 auto: }
+	
+
+.heady { color: red;
+	border-bottom: 2px dotted red; }
+
+#section {color: red;
+	font-family: Arial, sans-serif;
+	font-size: small;
+	background-color: grey;
+	width: 80%
+	box-shadow: 3px 3px 6px #666666; }
